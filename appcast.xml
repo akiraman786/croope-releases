@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Croope</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 22 Oct 2026 13:42:52 +0900</pubDate>
+            <link>https://github.com/akiraman786/croope-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/akiraman786/croope-releases/releases/download/v1.0.0/Croope-1.0.0.zip" length="8321288" type="application/octet-stream" sparkle:edSignature="O0CgCN4DnLmEm9upOaCFGJZU1hbxSf+l0A0MrykMIVkBcDlUjxFqXb1rcrhDX1UltT+fjQF1uJOE5o4QC2ICDA=="/>
+        </item>
+    </channel>
+</rss>
