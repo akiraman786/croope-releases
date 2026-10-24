@@ -3,6 +3,15 @@
     <channel>
         <title>Croope</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Sun, 25 Oct 2026 02:01:35 +0900</pubDate>
+            <link>https://github.com/akiraman786/croope-releases</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/akiraman786/croope-releases/releases/download/v1.0.1/Croope-1.0.1.zip" length="8863364" type="application/octet-stream" sparkle:edSignature="xs8MHaue0yQrlujiZqPfZf672GvGnfwcoPDYOqgbhEK6NeBnc08cQ4HuwchNNpq7VavUrS3ab939tGipuKcqBA=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 22 Oct 2026 13:42:52 +0900</pubDate>
             <link>https://github.com/akiraman786/croope-releases</link>
